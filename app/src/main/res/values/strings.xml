@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">myStoryApp</string>
+    <string name="email_text_view">Email</string>
+    <string name="account_image_by_user">account image by user</string>
+    <string name="welcome_text">Ready to share your experience?</string>
+    <string name="sub_welcome_text">Input your data first</string>
+    <string name="password_text_view">Password</string>
+    <string name="login_button">Login</string>
+    <string name="image_sign_up_welcome">image sign up welcome</string>
+    <string name="please_fill_out_your_data_below">Please fill out your data below</string>
+    <string name="name">Name</string>
+    <string name="signup_button">Signup</string>
+    <string name="add_story">Add Story</string>
+    <string name="preview_for_camera_capture_or_import_image">preview for camera capture or import image</string>
+    <string name="galery">Galery</string>
+    <string name="camera">Camera</string>
+    <string name="description_text">Description</string>
+    <string name="post">Post</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="register_link">Register</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="just_need_one_more_step">Just need one more step!</string>
+    <string name="created_at">Created at :</string>
+    <string name="username">username</string>
+    <string name="overview">Overview</string>
+    <string name="description_post">Description</string>
+    <string name="email_error_message">Email Format Wrong</string>
+    <string name="password_error_message">Password must be at least 8 characters</string>
+    <string name="logout_account">Logout Account</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+    <string name="retry">Retry</string>
+</resources>
